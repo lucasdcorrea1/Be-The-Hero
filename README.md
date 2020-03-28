@@ -14,7 +14,7 @@ Be The Hero
 </p>
 
 <div>
-  <img src="https://i.ibb.co/vsvVNCh/Be-The-Hero.gif" alt="demo-web" height="425">
+  <img src="https://i.ibb.co/vsvVNCh/Be-The-Hero.gif" alt="demo-web" width="700" height="425">
   <img src="https://i.ibb.co/Fh21Pm9/Screenrecorder-2020-03-27-20-01-56-991-0-1.gif" alt="demo-mobile" height="425">
 </div>
 
